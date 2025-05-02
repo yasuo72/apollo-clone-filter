@@ -23,14 +23,14 @@ I developed this modern, full-stack doctor listing web application inspired by A
 <h1 align="center" style="font-size: 40px;">Screenshots</h1>
 
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/yasuo72/assests/blob/main/Screenshot%202025-05-02%20103636.png" width="50%" alt="Image 11">
-  <img src="https://github.com/yasuo72/assests/blob/main/Screenshot%202025-05-02%20103650.png" width="50%" alt="Image 10">
+  <img src="https://github.com/yasuo72/assests/blob/main/Screenshot%202025-05-02%20103636.png" width="40%" alt="Image 11">
+  <img src="https://github.com/yasuo72/assests/blob/main/Screenshot%202025-05-02%20103650.png" width="40%" alt="Image 10">
   
 </p>
 
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/yasuo72/assests/blob/main/Screenshot%202025-05-02%20103718.png" width="50%" alt="Image 8">
-  <img src="https://github.com/yasuo72/assests/blob/main/Screenshot%202025-05-02%20103819.png" width="50%" alt="Image 7">
+  <img src="https://github.com/yasuo72/assests/blob/main/Screenshot%202025-05-02%20103718.png" width="40%" alt="Image 8">
+  <img src="https://github.com/yasuo72/assests/blob/main/Screenshot%202025-05-02%20103819.png" width="40%" alt="Image 7">
 
 </p>
 
