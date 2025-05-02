@@ -25,19 +25,17 @@ I developed this modern, full-stack doctor listing web application inspired by A
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://github.com/yasuo72/assests/blob/main/Screenshot%202025-05-02%20103636.png" width="30%" alt="Image 11">
   <img src="https://github.com/yasuo72/assests/blob/main/Screenshot%202025-05-02%20103650.png" width="30%" alt="Image 10">
-  <img src="https://github.com/user-attachments/assets/7d947294-a4f0-4bab-aad1-9b4b397e1645" width="30%" alt="Image 9">
+  
 </p>
 
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://github.com/yasuo72/assests/blob/main/Screenshot%202025-05-02%20103718.png" width="30%" alt="Image 8">
   <img src="https://github.com/yasuo72/assests/blob/main/Screenshot%202025-05-02%20103819.png" width="30%" alt="Image 7">
-  <img src="https://github.com/user-attachments/assets/66b57c2d-559e-4986-998f-c60947ad1857" width="30%" alt="Image 6">
+
 </p>
 
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/yasuo72/assests/blob/main/Screenshot%202025-05-02%20103718.png" width="30%" alt="Image 5">
-  <img src="https://github.com/user-attachments/assets/e8749784-4525-4cdc-9faa-570620c925f1" width="30%" alt="Image 4">
-  <img src="https://github.com/user-attachments/assets/6691ffbe-f2ee-4232-9ecc-1b98a92d08c6" width="30%" alt="Image 3">
+ 
 </p>
 
 ## 🏗️ Project Structure
